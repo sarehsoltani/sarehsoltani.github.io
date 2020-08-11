@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Sareh Soltani</title>
+    <link>https://sarehsoltani.github.io/authors/</link>
+      <atom:link href="https://sarehsoltani.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 16:12:18 +0330</lastBuildDate>
+    <image>
+      <url>https://sarehsoltani.github.io/images/icon_hub017d0b7fc8b5461eb357eebd7c420bc_6566_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://sarehsoltani.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

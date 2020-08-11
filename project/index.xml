@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sareh Soltani</title>
+    <link>https://sarehsoltani.github.io/project/</link>
+      <atom:link href="https://sarehsoltani.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 16:12:18 +0330</lastBuildDate>
+    <image>
+      <url>https://sarehsoltani.github.io/images/icon_hub017d0b7fc8b5461eb357eebd7c420bc_6566_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://sarehsoltani.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Tracking System</title>
+      <link>https://sarehsoltani.github.io/project/tracking-system/</link>
+      <pubDate>Sun, 16 Jun 2019 03:17:08 +0330</pubDate>
+      <guid>https://sarehsoltani.github.io/project/tracking-system/</guid>
+      <description>&lt;p&gt;Block Diagram of Tracking System:&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://user-images.githubusercontent.com/23232055/59965808-357b1500-9528-11e9-9e5c-2229ae5d681d.jpg&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;In this project, we intend to implement a system that can accurately determine the direction, speed, and locations of moving objects at any given time with using SIM808 Module. In this system, each object is equipped with a GPS module that receives its location every two minutes from the satellite and sends it to the software servers via the GSM modem. Software servers analyze the information after receiving it. In this part of the project, a web application was developed to process the transmitted data and then store it in a database and finally convert the stored information to visible to users. This allows you to see the speed, direction of movement, and locations of the object on the map.
+&lt;br&gt;
+&lt;br&gt;
+This project is a tracking system that uses the same GSM and GPS module that is built 
+into the SIM808 module. Whenever you send the “Hi” or “Hello” string to the number of that SIM
+that is already inserted in the GSM Module, you will be able to get a response with the GPS location of the module depending on where it is. &lt;br&gt;
+&lt;br&gt;
+Hardware and Software Requirements: &lt;br&gt;
+&lt;strong&gt;Hardware&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SIM 808 Module&lt;/li&gt;
+&lt;li&gt;Arduino UNO OR Arduino MEGA&lt;/li&gt;
+&lt;li&gt;Arduino cable&lt;/li&gt;
+&lt;li&gt;9V supply&lt;/li&gt;
+&lt;li&gt;GPS antenna and GSM antenna&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arduino IDE&lt;/li&gt;
+&lt;li&gt;SIM808 library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Connections for the Arduino UNO:&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;500&#34; align=&#34;center&#34; height=&#34;300&#34; src=&#34;https://user-images.githubusercontent.com/23232055/64549661-6bb97b00-d346-11e9-90bb-5afb3129d616.jpeg&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;The designed Tracker System:&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;500&#34; align=&#34;center&#34; height=&#34;300&#34; src=&#34;https://user-images.githubusercontent.com/23232055/64449151-8f858280-d0f4-11e9-9bcc-d22a6d768da8.PNG&#34;&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Volume rendering of 3D Medical Images (Dicom scans)</title>
+      <link>https://sarehsoltani.github.io/project/fft-algorithm-parallelization-using-raspberrypi-cluster/</link>
+      <pubDate>Wed, 01 Jul 2020 16:12:18 +0330</pubDate>
+      <guid>https://sarehsoltani.github.io/project/fft-algorithm-parallelization-using-raspberrypi-cluster/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;bold color=&#34;text-elite&#34;&gt;Introduction&lt;/bold&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project was done as a part of my research in medical images area under supervision of Dr. Ali Ghazizadeh at Iranian Institute for Research on Fundamental Sciences (IPM).&lt;br&gt;
+The aim was to process and analyze Medical Images (DICOM scans) using Pydicom.
+In this project, I implemented volume rendering of 3D image data in itkwidgets, which is a Python package enables us to volume render a 3d image in a Jupyter notebook. It can take a numpy array or some other 3d image format as input.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Naive Image Template Matching with CUDA</title>
+      <link>https://sarehsoltani.github.io/project/fast-naive-image-template-matching-with-cuda/</link>
+      <pubDate>Sat, 12 May 2018 01:54:36 +0330</pubDate>
+      <guid>https://sarehsoltani.github.io/project/fast-naive-image-template-matching-with-cuda/</guid>
+      <description>&lt;p&gt;This project was done as the final project of the Multi-core programming course, taught by Dr. Mahmoud Momtazpour, Tehran Polytechnic. &lt;br&gt;
+In most computer vision and image analysis problems, it is necessary to define a similarity measure between two or more different objects or images.
+Template matching is a classic and fundamental method used to score similarities between objects using certain mathematical algorithms.&lt;br&gt;
+In this project, I implemented the Template Matching algorithm in CUDA (and OpenMP), on a dataset of coin/face images. Parallel Processing using GPU allowed this algorithm
+to operate more efficiently and provided an acceptable speedup compared to the serial implementation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arduino Based Sun Tracking Solar Panel</title>
+      <link>https://sarehsoltani.github.io/project/arduino-based-sun-tracking-solar-panel/</link>
+      <pubDate>Wed, 11 Jan 2017 16:09:03 +0330</pubDate>
+      <guid>https://sarehsoltani.github.io/project/arduino-based-sun-tracking-solar-panel/</guid>
+      <description>&lt;p&gt;This project was done as the final project of the Interface Circuit Design course, taught by Prof. Mahdi Sedighi, Tehran Polytechnic. &lt;br&gt;
+In modern solar tracking systems, the solar panels are fixed on a structure that moves according to the position of the sun. In this project, I implemented a solar tracker system using two servo motors, 4 light sensors and Arduino UNO board to rotate the solar panel towards the Sun or a source of light.
+&lt;br&gt;
+I used a standard servo that can rotate approximately 180 degrees (90° in each direction) and is controlled using the included Arduino’s Servo Library.&lt;br&gt;
+LDRs are used as the main light sensors. Two servo motors are fixed to the structure that holds the solar panel. The program for Arduino is uploaded to the microcontroller. The working of the project is as follows: &lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LDRs sense the amount of sunlight falling on them. Four LDRs are divided into top, bottom, left and right.&lt;/li&gt;
+&lt;li&gt;For east–west tracking, the analog values from two top LDRs and two bottom LDRs are compared, and if the top set of LDRs receives more light, the vertical servo will move in that direction. If the bottom LDRs receives more light, the servo moves in that direction.
+For the angular deflection of the solar panel, the analog values from two left LDRs and two right LDRs are compared. If the left set of LDRs receives more light than the right set, the horizontal servo will move in that direction.
+If the right set of LDRs receives more light, the servo moves in that direction.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mains | Sareh Soltani</title>
+    <link>https://sarehsoltani.github.io/main/</link>
+      <atom:link href="https://sarehsoltani.github.io/main/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mains</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sarehsoltani.github.io/images/icon_hub017d0b7fc8b5461eb357eebd7c420bc_6566_512x512_fill_lanczos_center_2.png</url>
+      <title>Mains</title>
+      <link>https://sarehsoltani.github.io/main/</link>
+    </image>
+    
+    <item>
+      <title>Academic Projects</title>
+      <link>https://sarehsoltani.github.io/main/academicproject/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/academicproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sarehsoltani.github.io/main/contact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honors</title>
+      <link>https://sarehsoltani.github.io/main/achievements/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/achievements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://sarehsoltani.github.io/main/posts/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://sarehsoltani.github.io/main/projects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://sarehsoltani.github.io/main/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills and Knowledge</title>
+      <link>https://sarehsoltani.github.io/main/skill/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/skill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://sarehsoltani.github.io/main/teaching/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sarehsoltani.github.io/main/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
