@@ -54,9 +54,9 @@ Hardware and Software Requirements: &lt;br&gt;
     
     <item>
       <title>Volume rendering of 3D Medical Images (Dicom scans)</title>
-      <link>https://sarehsoltani.github.io/project/fft-algorithm-parallelization-using-raspberrypi-cluster/</link>
+      <link>https://sarehsoltani.github.io/project/volume-rendering-of-3d-medical-images/</link>
       <pubDate>Wed, 01 Jul 2020 16:12:18 +0330</pubDate>
-      <guid>https://sarehsoltani.github.io/project/fft-algorithm-parallelization-using-raspberrypi-cluster/</guid>
+      <guid>https://sarehsoltani.github.io/project/volume-rendering-of-3d-medical-images/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;bold color=&#34;text-elite&#34;&gt;Introduction&lt;/bold&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This project was done as a part of my research in medical images area under supervision of Dr. Ali Ghazizadeh at Iranian Institute for Research on Fundamental Sciences (IPM).&lt;br&gt;
 The aim was to process and analyze Medical Images (DICOM scans) using Pydicom.
