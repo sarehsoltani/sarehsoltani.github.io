@@ -17,18 +17,43 @@
       <link>https://sarehsoltani.github.io/project/tracking-system/</link>
       <pubDate>Sun, 16 Jun 2019 03:17:08 +0330</pubDate>
       <guid>https://sarehsoltani.github.io/project/tracking-system/</guid>
-      <description>&lt;p&gt;Block Diagram of Tracking System:&lt;/p&gt;
+      <description>&lt;p&gt;In recent years, IoT technology has grown significantly and has been able
+to meet diverse and complex needs in various fields. One of the applications of the Internet of Things is real-time tracking. The positioning and tracking system has provided reliable solutions to ensure people and vehicles&amp;rsquo; safety and has a significant impact on optimizing the quality of monitoring. This system can be used for a broad range of applications such as traffic management and vehicle tracking/anti-theft system, and finally, traffic routing and navigation.
+&lt;br&gt;
+I have implemented a Real-Time Tracking System, monitored in a Mobile App based on Google Maps, as my Bachelor’s Thesis for tracking moving objects from any location. This system was developed to accurately determine the location, direction of movement, and speed of moving objects at any given time using the SIM808 module. In this system, each object is equipped with a GPS (Global Positioning System) module that receives its location every two minutes from the satellite and sends them to the software servers via the GSM modem. Software servers analyze the information after receiving them. In this part of the project, a web application was developed for continuously monitoring the object location on Google Maps. It processes the transmitted data and then stores them into a database. Finally, it converts the stored information to visible to users. So, you can see the speed, direction of movement, and the object’s locations on the Google Maps.&lt;/p&gt;
+&lt;p&gt;Block Diagram of Tracking System:&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
   &lt;img width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://user-images.githubusercontent.com/23232055/59965808-357b1500-9528-11e9-9e5c-2229ae5d681d.jpg&#34;&gt;
 &lt;/p&gt;
-&lt;p&gt;In this project, we intend to implement a system that can accurately determine the direction, speed, and locations of moving objects at any given time with using SIM808 Module. In this system, each object is equipped with a GPS module that receives its location every two minutes from the satellite and sends it to the software servers via the GSM modem. Software servers analyze the information after receiving it. In this part of the project, a web application was developed to process the transmitted data and then store it in a database and finally convert the stored information to visible to users. This allows you to see the speed, direction of movement, and locations of the object on the map.
+&lt;p&gt;One of the unique features of the implemented tracking system is that you
+can send a message to the SIM card number inserted on the SIM808 module
+to get the object’s current position. After receiving the message, this module
+also receives the object’s location via GPS and sends the necessary information
+for tracking in response to the received message. This information
+includes the latitude and longitude and speed of the object. There is also
+a link attached to this message that the user can click to view the object’s
+location on the map. &lt;br&gt;
+In the following figures, you can see the message sent and its response
+through the designed system:&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;500&#34; height=&#34;300&#34; src=&#34;https://user-images.githubusercontent.com/23232055/92630904-cf71dd80-f2e5-11ea-84b8-6dde257e0ce2.PNG&#34;&gt;
+&lt;/p&gt;
+Following figure shows the message sent to the user: 
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;250&#34; height=&#34;350&#34; src=&#34;https://user-images.githubusercontent.com/23232055/92631373-82dad200-f2e6-11ea-93c1-d82ab5ee2ddf.jpeg&#34;&gt;
+&lt;/p&gt;
+Another feature of this system is to get the frequently visited places by users in a certain period. To do this, we used the heat map. Heatmaps are
+graphic and color data that enable us to identify the behavior of our users. In
+this project, we implemented the heatmap using stored information, which
+was the location of objects at different times. The most visited places of
+a person, which are more frequent in our data set than the others, will be
+visible as red areas on the map.&lt;br&gt;
+You can see the high-traffic locations of the object in following figure:
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;700&#34; height=&#34;500&#34; src=&#34;https://user-images.githubusercontent.com/23232055/92633909-ba4a7e00-f2e8-11ea-9459-225ad21ddc70.jpg&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;Hardware and Software Requirements: 
 &lt;br&gt;
-&lt;br&gt;
-This project is a tracking system that uses the same GSM and GPS module that is built 
-into the SIM808 module. Whenever you send the “Hi” or “Hello” string to the number of that SIM
-that is already inserted in the GSM Module, you will be able to get a response with the GPS location of the module depending on where it is. &lt;br&gt;
-&lt;br&gt;
-Hardware and Software Requirements: &lt;br&gt;
 &lt;strong&gt;Hardware&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SIM 808 Module&lt;/li&gt;

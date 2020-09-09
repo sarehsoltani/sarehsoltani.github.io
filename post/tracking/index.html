@@ -669,7 +669,7 @@
   <h1>Real-Time Tracking System</h1>
 
   
-  <p class="page-subtitle"><strong>Implementation of a GPS-GSM Tracking System, Monitored in a Mobile App based on Google Map.</strong> <br> Available in: <a href="https://github.com/sarehsoltani/RealTimeTrackerSystem.git">GitHub</a>.</p>
+  <p class="page-subtitle"><strong>Implementation of a GPS-GSM Tracking System, Monitored in a Mobile App based on Google Map.</strong> <br> BSc&rsquo;s Thesis (en-version) available in: <a href="https://github.com/sarehsoltani/BSc-Thesis/blob/master/Thesis/English%20version/Latex%20Resources/report.pdf">GitHub</a></p>
   
 
   
@@ -677,16 +677,6 @@
 
 <div class="article-metadata">
 
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span ><a href="/authors/admin/">Sareh Soltani</a></span>
-  </div>
   
   
 
@@ -705,7 +695,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    2 min read
+    3 min read
   </span>
   
 
@@ -732,6 +722,53 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/sarehsoltani/BSc-Thesis/blob/master/Thesis/English%20version/Latex%20Resources/report.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/sarehsoltani/RealTimeTrackerSystem" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
 </div>
 
@@ -748,18 +785,43 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Block Diagram of Tracking System:</p>
+      <p>In recent years, IoT technology has grown significantly and has been able
+to meet diverse and complex needs in various fields. One of the applications of the Internet of Things is real-time tracking. The positioning and tracking system has provided reliable solutions to ensure people and vehicles&rsquo; safety and has a significant impact on optimizing the quality of monitoring. This system can be used for a broad range of applications such as traffic management and vehicle tracking/anti-theft system, and finally, traffic routing and navigation.
+<br>
+I have implemented a Real-Time Tracking System, monitored in a Mobile App based on Google Maps, as my Bachelor’s Thesis for tracking moving objects from any location. This system was developed to accurately determine the location, direction of movement, and speed of moving objects at any given time using the SIM808 module. In this system, each object is equipped with a GPS (Global Positioning System) module that receives its location every two minutes from the satellite and sends them to the software servers via the GSM modem. Software servers analyze the information after receiving them. In this part of the project, a web application was developed for continuously monitoring the object location on Google Maps. It processes the transmitted data and then stores them into a database. Finally, it converts the stored information to visible to users. So, you can see the speed, direction of movement, and the object’s locations on the Google Maps.</p>
+<p>Block Diagram of Tracking System:</p>
 <p align="center">
   <img width="700" height="400" src="https://user-images.githubusercontent.com/23232055/59965808-357b1500-9528-11e9-9e5c-2229ae5d681d.jpg">
 </p>
-<p>In this project, we intend to implement a system that can accurately determine the direction, speed, and locations of moving objects at any given time with using SIM808 Module. In this system, each object is equipped with a GPS module that receives its location every two minutes from the satellite and sends it to the software servers via the GSM modem. Software servers analyze the information after receiving it. In this part of the project, a web application was developed to process the transmitted data and then store it in a database and finally convert the stored information to visible to users. This allows you to see the speed, direction of movement, and locations of the object on the map.
+<p>One of the unique features of the implemented tracking system is that you
+can send a message to the SIM card number inserted on the SIM808 module
+to get the object’s current position. After receiving the message, this module
+also receives the object’s location via GPS and sends the necessary information
+for tracking in response to the received message. This information
+includes the latitude and longitude and speed of the object. There is also
+a link attached to this message that the user can click to view the object’s
+location on the map. <br>
+In the following figures, you can see the message sent and its response
+through the designed system:</p>
+<p align="center">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/23232055/92630904-cf71dd80-f2e5-11ea-84b8-6dde257e0ce2.PNG">
+</p>
+Following figure shows the message sent to the user: 
+<p align="center">
+  <img width="250" height="350" src="https://user-images.githubusercontent.com/23232055/92631373-82dad200-f2e6-11ea-93c1-d82ab5ee2ddf.jpeg">
+</p>
+Another feature of this system is to get the frequently visited places by users in a certain period. To do this, we used the heat map. Heatmaps are
+graphic and color data that enable us to identify the behavior of our users. In
+this project, we implemented the heatmap using stored information, which
+was the location of objects at different times. The most visited places of
+a person, which are more frequent in our data set than the others, will be
+visible as red areas on the map.<br>
+You can see the high-traffic locations of the object in following figure:
+<p align="center">
+  <img width="700" height="500" src="https://user-images.githubusercontent.com/23232055/92633909-ba4a7e00-f2e8-11ea-9459-225ad21ddc70.jpg">
+</p>
+<p>Hardware and Software Requirements: 
 <br>
-<br>
-This project is a tracking system that uses the same GSM and GPS module that is built 
-into the SIM808 module. Whenever you send the “Hi” or “Hello” string to the number of that SIM
-that is already inserted in the GSM Module, you will be able to get a response with the GPS location of the module depending on where it is. <br>
-<br>
-Hardware and Software Requirements: <br>
 <strong>Hardware</strong></p>
 <ul>
 <li>SIM 808 Module</li>
@@ -888,8 +950,7 @@ Hardware and Software Requirements: <br>
 
 
   
-    
-    
+  
 
 
 
@@ -1005,7 +1066,6 @@ Hardware and Software Requirements: <br>
   
 
 
-  
 
 
 
