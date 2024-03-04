@@ -29,9 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Computer Vision
+  - Natural Language Precessing
+  - Data Science
 
 # Education to show in About widget
 education:
@@ -39,9 +40,11 @@ education:
     - course: MSc in Computer Science 
       institution: Western University
       year: 2023
+      GPA: 4/4
     - course: BSc in Computer Engineering 
       institution: Amirkabir University
       year: 2019
+      GPA: 3.72/4
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
