@@ -3,12 +3,12 @@
 title: Sareh Soltani Nejad
 
 # Name pronunciation (optional)
-name_pronunciation: Sareh Soltani Nejad
+#name_pronunciation: Sareh Soltani Nejad
 
 # Full name (for SEO)
 first_name: Sareh
 last_name: Soltani Nejad
-
+ 
 # Status emoji
 status:
   icon: ☕️
