@@ -38,11 +38,11 @@ interests:
 education:
   courses:
     - course: MSc in Computer Science 
-      institution: Western University
+      institution: Western University, Canada
       year: 2023
       GPA: 4/4
     - course: BSc in Computer Engineering 
-      institution: Amirkabir University
+      institution: Amirkabir University, Iran
       year: 2019
       GPA: 3.72/4
 
