@@ -119,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a Machine Learning Researcher at Canada's Brain and Mind Institute, leveraging a solid background in Computer Science and over four years of combined research and industrial experience. My expertise lies in developing Machine Learning models across various domains including Transfer Learning, Computer Vision, Anomaly Detection, and Natural Language Processing. I got my Master's in Computer Science from Western University, specializing in weakly-supervised anomaly detection in surveillance videos. Prior to this, I earned my Bachelor's degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on Real-Time Tracking systems.This academic and professional journey has equipped me with a diverse skill set, fueling my passion for advancing the field of artificial intelligence.
+I am currently a Machine Learning Researcher at Canada's Brain and Mind Institute, leveraging a solid background in Computer Science and over four years of combined research and industrial experience. My expertise lies in developing Machine Learning models across various domains including Transfer Learning, Computer Vision, Anomaly Detection, and Natural Language Processing. I got my Master's in Computer Science from Western University, specializing in weakly-supervised anomaly detection in surveillance videos. Prior to this, I earned my Bachelor's degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on Real-Time Tracking systems.
 
 
 {style="text-align: justify;"}
