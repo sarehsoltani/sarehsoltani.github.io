@@ -9,9 +9,9 @@
 first_name: Sareh
 last_name: Soltani Nejad
  
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
