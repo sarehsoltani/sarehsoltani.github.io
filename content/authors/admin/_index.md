@@ -91,6 +91,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sarehsoltani96/
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
@@ -100,9 +103,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sarehsoltani
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/sarehsoltani96/
+ 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
