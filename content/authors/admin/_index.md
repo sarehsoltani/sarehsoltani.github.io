@@ -17,7 +17,7 @@ last_name: Soltani Nejad
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Researcher/Engineer/ Data Scientist
+role: Machine Learning Researcher/Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,8 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Deep Learning
   - Computer Vision
-  - Natural Language Precessing
-  - Data Science
+  - Anomaly Detection
 
 # Education to show in About widget
 education:
