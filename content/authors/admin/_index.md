@@ -17,7 +17,7 @@ last_name: Soltani Nejad
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Researcher/Engineer
+role: Machine Learning Researcher/Engineer/ Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
