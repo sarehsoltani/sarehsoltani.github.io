@@ -70,13 +70,13 @@ sections:
           date_start: '2023-07-01'
           date_end: '2023-12-31'
           description: 
-                • Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-                • Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
-                • Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
+                Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+                Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
+                Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
                 LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
-                • Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
+                Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
                 using GridSearchCV and Optuna.
-                • Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.
+                Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.
   #   design:
       columns: '2'
       - title: Machine Learning Teaching Assistant
