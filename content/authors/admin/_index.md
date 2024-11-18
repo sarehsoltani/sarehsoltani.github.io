@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sareh Soltani Nejad
+title: __Sareh Soltani Nejad__
 
 # Name pronunciation (optional)
 #name_pronunciation: Sareh Soltani Nejad
@@ -21,7 +21,7 @@ role: Machine Learning Researcher/Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Brain and Mind Institute, Western University
+  - name: Brain and Mind Institute
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -113,7 +113,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring the effects of music perception on brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world challenges. My passion lies in Deep Learning, Computer Vision, and Anomaly Detection, where I’ve applied innovative approaches to create meaningful solutions.
+I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring the effects of music perception on brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world problems. My expertise lies in Deep Learning, Computer Vision, and Anomaly Detection, with a strong interest in leveraging applied ML to solve challenging problems, particularly in the healthcare domain.
 
 I completed my Master’s in Computer Science at Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Before that, I got my Bachelor’s in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.
 
