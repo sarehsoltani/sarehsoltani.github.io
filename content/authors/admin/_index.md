@@ -1,6 +1,6 @@
 ---
 # Display name
-title: __Sareh Soltani Nejad__
+title: Sareh Soltani Nejad
 
 # Name pronunciation (optional)
 #name_pronunciation: Sareh Soltani Nejad
