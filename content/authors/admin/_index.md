@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Deep Learning
-  - Computer Visionhhhh
+  - Computer Vision
   - Anomaly Detection
 
 # Education to show in About widget
