@@ -58,8 +58,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
-  width: 20px   # Add your desired width
-  height: 10px  # Add your desired height
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
