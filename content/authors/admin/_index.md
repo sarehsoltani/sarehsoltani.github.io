@@ -21,11 +21,11 @@ role: Machine Learning Researcher/Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Brain and Mind Institute
+  - name: Brain and Mind Institute, Western University
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include Computer Vision, Deep Learning and 
 
 # Interests to show in About widget
 interests:
@@ -113,7 +113,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a Machine Learning Researcher at Canada's Brain and Mind Institute, leveraging a solid background in Computer Science and over four years of combined research and industrial experience. My expertise lies in developing Machine Learning models across various domains including Transfer Learning, Computer Vision, Anomaly Detection, and Natural Language Processing. I got my Master's in Computer Science from Western University, specializing in weakly-supervised anomaly detection in surveillance videos. Prior to this, I earned my Bachelor's degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on Real-Time Tracking systems.
+I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring how music shapes brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world challenges. My passion lies in Deep Learning, Computer Vision, and Anomaly Detection, where I’ve applied innovative approaches to create meaningful solutions.
 
+I completed my Master’s in Computer Science at Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Before that, I got my Bachelor’s in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.
 
 {style="text-align: justify;"}
