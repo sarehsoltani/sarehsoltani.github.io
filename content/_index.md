@@ -50,40 +50,40 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-- block: experience
-  content:
-    - title: Applied Researcher
-      company: Brain and Mind Institute
-      company_url: ''
-      # company_logo: org-gc
-      location: London, ON
-      date_start: '2024-01-01'
-      date_end: ''
-      description:
-        - Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities.
-        - Exploring the effects of music perception on brain functionality.
-    - title: Machine Learning Technical Facilitator
-      company: Vector Institute for AI
-      company_url: ''
-      # company_logo: org-x
-      location: Toronto, Canada
-      date_start: '2023-07-01'
-      date_end: '2023-12-31'
-      description:
-        - Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-        - Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
-        - Implemented fraud detection on the BAF dataset using models like:
-            - Logistic Regression
-            - Random Forest
-            - XGBoost
-            - CatBoost
-            - LightGBM
-            - Isolation Forest
-            - Deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
-        - Evaluated the performance of models based on metrics like TPR, FPR, and AUC.
-        - Performed hyper-parameter tuning using GridSearchCV and Optuna.
-        - Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.
-  #   design:
+  - block: experience
+    content:
+      - title: Applied Researcher
+        company: Brain and Mind Institute
+        company_url: ''
+        # company_logo: org-gc
+        location: London, ON
+        date_start: '2024-01-01'
+        date_end: ''
+        description:
+          - Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities.
+          - Exploring the effects of music perception on brain functionality.
+      - title: Machine Learning Technical Facilitator
+        company: Vector Institute for AI
+        company_url: ''
+        # company_logo: org-x
+        location: Toronto, Canada
+        date_start: '2023-07-01'
+        date_end: '2023-12-31'
+        description:
+          - Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+          - Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
+          - Implemented fraud detection on the BAF dataset using models like:
+              - Logistic Regression
+              - Random Forest
+              - XGBoost
+              - CatBoost
+              - LightGBM
+              - Isolation Forest
+              - Deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
+          - Evaluated the performance of models based on metrics like TPR, FPR, and AUC.
+          - Performed hyper-parameter tuning using GridSearchCV and Optuna.
+          - Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.
+    #   design:
       columns: '2'
   #     - title: Machine Learning Teaching Assistant
   #         company: Vector Institute for AI
