@@ -76,14 +76,21 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Machine Learning Technical Facilitator
+          company: Vector Institute for AI
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Toronto, Canada
+          date_start: '2023-07-01'
+          date_end: '2023-12-31'
+          description: |2-
+              * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+              * Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
+              * Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
+                LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
+              * Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
+                using GridSearchCV and Optuna.
+              * Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.  
   #   design:
       columns: '2'
   # - block: accomplishments
