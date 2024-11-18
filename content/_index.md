@@ -72,39 +72,39 @@ sections:
           description: 
               Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities, exploring the effects of
               music perception on brain functionality. 
-        - title: Machine Learning Technical Facilitator
-          company: Vector Institute for AI
-          company_url: ''
-          # company_logo: org-x
-          location:  Toronto, Canada
-          date_start: '2023-07-01'
-          date_end: '2023-12-31'
-          description: 
-          * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-          * Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
-          * Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
-          LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
-          * Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
-          using GridSearchCV and Optuna.
-          * Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.
-  #   design:
-      columns: '2'
-      - title: Machine Learning Teaching Assistant
-          company: Vector Institute for AI
-          company_url: ''
-          # company_logo: org-x
-          location:  Toronto, Canada
-          date_start: '2023-06-01'
-          date_end: '2023-09-31'
-          description: 
-          • Led the Anomaly Detection AccelerateWorkshop, covering anomaly detection for time-series, tabular, image, and graph data.
-          • Developed and implemented anomaly detection models using machine learning techniques such as SVM, AutoEncoders,
-          and ensemble methods, focusing on real-world use cases like fraud detection and traffic prediction.
-          • Preprocessed, cleaned, and analyzed the tabular Credit Card Fraud Detection and the time-series NYC Taxi Traffic datasets.
-          • Applied machine learning frameworks like PyOD and PyCaret to develop models and conduct performance comparisons.
-          • Developed a reference implementation for image anomaly detection using the PaDiM algorithm on the MVTec dataset.
-  #   design:
-      columns: '2'
+  #       - title: Machine Learning Technical Facilitator
+  #         company: Vector Institute for AI
+  #         company_url: ''
+  #         # company_logo: org-x
+  #         location:  Toronto, Canada
+  #         date_start: '2023-07-01'
+  #         date_end: '2023-12-31'
+  #         description: 
+  #         * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+  #         * Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
+  #         * Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
+  #         LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
+  #         * Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
+  #         using GridSearchCV and Optuna.
+  #         * Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.
+  # #   design:
+  #     columns: '2'
+  #     - title: Machine Learning Teaching Assistant
+  #         company: Vector Institute for AI
+  #         company_url: ''
+  #         # company_logo: org-x
+  #         location:  Toronto, Canada
+  #         date_start: '2023-06-01'
+  #         date_end: '2023-09-31'
+  #         description: 
+  #         • Led the Anomaly Detection AccelerateWorkshop, covering anomaly detection for time-series, tabular, image, and graph data.
+  #         • Developed and implemented anomaly detection models using machine learning techniques such as SVM, AutoEncoders,
+  #         and ensemble methods, focusing on real-world use cases like fraud detection and traffic prediction.
+  #         • Preprocessed, cleaned, and analyzed the tabular Credit Card Fraud Detection and the time-series NYC Taxi Traffic datasets.
+  #         • Applied machine learning frameworks like PyOD and PyCaret to develop models and conduct performance comparisons.
+  #         • Developed a reference implementation for image anomaly detection using the PaDiM algorithm on the MVTec dataset.
+  # #   design:
+  #     columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
