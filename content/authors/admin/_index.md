@@ -113,8 +113,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring how music shapes brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world challenges. My passion lies in Deep Learning, Computer Vision, and Anomaly Detection, where I’ve applied innovative approaches to create meaningful solutions.
+I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring the effects of music perception on brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world challenges. My passion lies in Deep Learning, Computer Vision, and Anomaly Detection, where I’ve applied innovative approaches to create meaningful solutions.
 
 I completed my Master’s in Computer Science at Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Before that, I got my Bachelor’s in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.
+
 
 {style="text-align: justify;"}
