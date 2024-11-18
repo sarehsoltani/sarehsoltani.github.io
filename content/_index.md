@@ -69,7 +69,7 @@ sections:
           location: London, ON
           date_start: '2024-01-01'
           date_end: ''
-          description: |2-
+          description: 
               Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities, exploring the effects of
               music perception on brain functionality. 
         - title: Machine Learning Technical Facilitator
