@@ -45,7 +45,7 @@ education:
       year: 2019
       GPA: 3.72/4
 
-Publication:
+education:
   courses:
     - course: MSc in Computer Science 
       institution: Western University, Canada
