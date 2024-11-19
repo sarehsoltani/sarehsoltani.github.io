@@ -20,7 +20,9 @@ publication_types: ["article-journal"]
 publication: "*Journal of Sensors, 1*(1)"
 publication_short: ""
 
-abstract:  Our increasingly connected world continues to face an ever-growing number of network based attacks. An Intrusion Detection System (IDS) is an essential security technology used for detecting these attacks. Although numerous Machine Learning-based IDSs have been proposed
+abstract:  Our increasingly connected world continues to face an ever-growing number of networkbased
+attacks. An Intrusion Detection System (IDS) is an essential security technology used for
+detecting these attacks. Although numerous Machine Learning-based IDSs have been proposed
 for the detection of malicious network traffic, the majority have difficulty properly detecting and
 classifying the more uncommon attack types. In this paper, we implement a novel hybrid technique
 using synthetic data produced by a Generative Adversarial Network (GAN) to use as input for
