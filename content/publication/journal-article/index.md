@@ -17,7 +17,7 @@ publishDate: "2024-04-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Sensors, 24(9)"
+publication: "*Journal of Sensors, 1*(1)"
 publication_short: ""
 
 abstract: Our increasingly connected world continues to face an ever-growing
