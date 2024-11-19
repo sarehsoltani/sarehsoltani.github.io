@@ -20,8 +20,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Sensors, 1*(1)"
 publication_short: ""
 
-abstract: Our increasingly connected world continues to face an ever-growing number of networkbased
-attacks. 
+abstract: Our increasingly connected world continues to face an ever-growing
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
