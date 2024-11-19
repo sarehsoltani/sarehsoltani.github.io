@@ -9,7 +9,7 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Sensors, 1*(1)"
 publication_short: ""
 
 abstract:  Our increasingly connected world continues to face an ever-growing number of networkbased attacks. An Intrusion Detection System (IDS) is an essential security technology used for
