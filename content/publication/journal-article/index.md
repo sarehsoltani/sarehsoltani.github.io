@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Sensors, 1*(1)"
 publication_short: ""
 
-abstract:  Our increasingly connected world continues to face an ever-growing number of networkbased
+abstract: Our increasingly connected world continues to face an ever-growing number of networkbased
 attacks. An Intrusion Detection System (IDS) is an essential security technology used for
 detecting these attacks. Although numerous Machine Learning-based IDSs have been proposed
 for the detection of malicious network traffic, the majority have difficulty properly detecting and
