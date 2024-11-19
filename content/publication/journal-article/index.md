@@ -1,7 +1,13 @@
 ---
 title: "DRL-GAN: A Hybrid Approach for Binary and Multiclass Network Intrusion Detection"
 authors:
+- Caroline Strickland
+- Muhammad ZakarORCID
+- Chandrika Saha
 - admin
+- Noshin Tasnim
+- Daniel J. LizotteORCID
+- Anwar Haque
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
