@@ -43,8 +43,8 @@ links:
 - name: Custom Link
   url: http://example.org
 
-url_pdf: ''
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_pdf: ''
+url_code: 'https://github.com/sarehsoltani/Weakly-Supervised-Anomaly-Detection-in-Surveillance-Videos-Based-on-Two-Stream-I3D-ConvNet'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
