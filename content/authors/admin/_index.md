@@ -29,9 +29,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
   - Computer Vision
-  - Anomaly Detection
+  - 3D Scene Understanding
+  - Biomedical Computing
 
 # Education to show in About widget
 education:
@@ -115,7 +115,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring the effects of music perception on brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world problems. My expertise lies in Deep Learning, Computer Vision, and Anomaly Detection, with a strong interest in leveraging applied ML to solve challenging problems, particularly in the healthcare domain.
+I’m a Machine Learning Researcher at the Brain and Mind Institute, exploring the effects of music perception on brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world problems. My research interest lies at the intersection of computer vision, natural language processing, and scene understanding, with a strong interest in leveraging applied ML to solve challenging problems in the healthcare domain.
 
 I received my Master's Degree in Computer Science at Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Prior to this, I got my Bachelor’s Degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.
 
