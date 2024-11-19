@@ -206,8 +206,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
-      view: card
+      columns: '2'
+      view: compact
   - block: collection
     content:
       title: Recent Publications
