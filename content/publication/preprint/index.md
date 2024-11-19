@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Weakly-Supervised Anomaly Detection in Surveillance Videos Based on Two-Stream I3D Convolution Network"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Anwar Haque
+# date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,26 +18,26 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The widespread implementation of urban surveillance systems has necessitated more sophisticated techniques for anomaly detection to ensure enhanced public safety. This paper presents a significant advancement in the field of anomaly detection through the application of Two-Stream Inflated 3D (I3D) Convolutional Networks. These networks substantially outperform traditional 3D Convolutional Networks (C3D) by more effectively extracting spatial and temporal features from surveillance videos, thus improving the precision of anomaly detection. Our research advances the field by implementing a weakly supervised learning framework based on Multiple Instance Learning (MIL), which uniquely conceptualizes surveillance videos as collections of 'bags' that contain instances (video clips). Each instance is innovatively processed through a ranking mechanism that prioritizes clips based on their potential to display anomalies. This novel strategy not only enhances the accuracy and precision of anomaly detection but also significantly diminishes the dependency on extensive manual annotations. Moreover, through meticulous optimization of model settings, including the choice of optimizer, our approach not only establishes new benchmarks in the performance of anomaly detection systems but also offers a scalable and efficient solution for real-world surveillance applications. This paper contributes significantly to the field of computer vision by delivering a more adaptable, efficient, and context-aware anomaly detection system, which is poised to redefine practices in urban surveillance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The widespread implementation of urban surveillance systems has necessitated more sophisticated techniques for anomaly detection to ensure enhanced public safety. 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: arXiv
+  url: https://arxiv.org/abs/2411.08755
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
