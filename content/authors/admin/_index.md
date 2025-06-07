@@ -29,9 +29,12 @@ organizations:
 
 # Interests to show in About widget
 interests:
+  - Machine Learning
   - Computer Vision
-  - 3D Scene Understanding
+  - Applied ML in Healthcare
   - Biomedical Computing
+  - Natural Language Processing (NLP)
+  - Large Language Models (LLMs)
 
 # Education to show in About widget
 education:
