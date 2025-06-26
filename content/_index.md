@@ -50,49 +50,49 @@ sections:
  #     username: admin
     # design:
     #   columns: '1'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2024
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Applied Researcher
-  #         company: Brain and Mind Institute
-  #         company_url: ''
-  #         # company_logo: org-gc
-  #         location: London, ON
-  #         date_start: '2024-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities, exploring the effects of
-  #             music perception on brain functionality.
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2024
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Applied Researcher
+          company: Brain and Mind Institute
+          company_url: ''
+          # company_logo: org-gc
+          location: London, ON
+          date_start: '2024-01-01'
+          date_end: ''
+          description: |2-
+              Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities, exploring the effects of
+              music perception on brain functionality.
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Machine Learning Technical Facilitator
-  #         company: Vector Institute for AI
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: Toronto, Canada
-  #         date_start: '2023-07-01'
-  #         date_end: '2023-12-31'
-  #         description: |2-
-  #             * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-  #             * Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
-  #             * Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
-  #               LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
-  #             * Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
-  #               using GridSearchCV and Optuna.
-  #             * Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.  
-  # #   design:
-  #     columns: '2'
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Machine Learning Technical Facilitator
+          company: Vector Institute for AI
+          company_url: ''
+          company_logo: org-x
+          location: Toronto, Canada
+          date_start: '2023-07-01'
+          date_end: '2023-12-31'
+          description: |2-
+              * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+              * Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
+              * Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
+                LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
+              * Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
+                using GridSearchCV and Optuna.
+              * Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.  
+  #   design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
