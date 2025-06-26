@@ -27,24 +27,24 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include Computer Vision, Deep Learning and 
 
-# Interests to show in About widget
-interests:
-  - Machine Learning
-  - Applied ML in Healthcare
-  - Computer Vision
-  - Biomedical Computing
-  - Natural Language Processing (NLP)
+# Interests to show in About widget#
+#interests:
+ # - Machine Learning
+ # - Applied ML in Healthcare
+ # - Computer Vision
+ # - Biomedical Computing
+ # - Natural Language Processing (NLP)
 
 # Education to show in About widget
-education:
-  courses:
-    - course: MSc in Computer Science 
-      institution: Western University, Canada
-      GPA: 4/4
-    - course: BSc in Computer Engineering 
-      institution: Amirkabir University, Iran
+#education:
+#  courses:
+ #   - course: MSc in Computer Science 
+  #    institution: Western University, Canada
+   #   GPA: 4/4
+    #- course: BSc in Computer Engineering 
+     # institution: Amirkabir University
       # year: 2019
-      GPA: 3.72/4
+     # GPA: 3.72/4
 
 
 
@@ -116,9 +116,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a Machine Learning Researcher at the BrainsCAN, exploring the effects of music perception on brain functionality. With over four years of hands-on experience in both academia and industry, I’ve worked on developing Machine Learning models to tackle real-world problems. My research interest lies at the intersection of computer vision, natural language processing, and scene understanding, with a strong interest in leveraging applied ML to solve challenging problems in the healthcare domain.
+I’m a Machine Learning Researcher at the BrainsCAN, where I explore the effects of music perception on brain functionality. With over four years of hands-on experience, I specialize in building scalable ML solutions and extracting insights from complex, high-dimensional datasets. I have a proven track record of turning real-world challenges into data-driven strategies through robust models and analytics pipelines that drive measurable impact. I am passionate about creating impactful solutions, especially in the healthcare sector, and I am always keen to learn and grow in areas that merge ML and real-world applications. 
 
-I received my Master's Degree in Computer Science at Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Prior to this, I got my Bachelor’s Degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.
+I graduated from my M.Sc. in Computer Science from Western University where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. I completed my B.Sc. in Computer Engineering at Amirkabir University, focusing on real-time tracking systems.
 
+My research interests include ML fundamentals, Computer Vision, Biomedical Computing, and natural lanaguage processsing. On the applied side, I'm interested in ML problems at scale, modelling, training, deployment and evaluation. I am currently looking for my next job opportunity in machine learning.
 
 {style="text-align: justify;"}
