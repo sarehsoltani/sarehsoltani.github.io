@@ -41,7 +41,7 @@ education:
    - course: MSc in Computer Science 
      institution: Western University, Canada
      GPA: 4/4
-  -  course: BSc in Computer Engineering 
+   - course: BSc in Computer Engineering 
      institution: Amirkabir University
      GPA: 3.72/4
 
