@@ -116,7 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a Machine Learning Researcher at the BrainsCAN, where I explore the effects of music perception on brain functionality. With over four years of hands-on experience, I specialize in building scalable ML solutions and extracting insights from complex, high-dimensional datasets. I have a proven track record of turning real-world challenges into data-driven strategies through robust models and analytics pipelines that drive measurable impact. I am passionate about creating impactful solutions, especially in the healthcare sector, and I am always keen to learn and grow in areas that merge ML and real-world applications. 
+I’m a Machine Learning Researcher at the BrainsCAN, where I explore the effects of music perception on brain functionality. With over four years of hands-on experience, I specialize in building scalable ML solutions and extracting insights from complex, high-dimensional datasets. I am passionate about creating impactful solutions, especially in the healthcare sector, and I am always keen to learn and grow in areas that merge ML and real-world applications. 
 
 I graduated from my M.Sc. in Computer Science from Western University where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. I completed my B.Sc. in Computer Engineering at Amirkabir University, focusing on real-time tracking systems.
 
