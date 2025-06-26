@@ -28,23 +28,22 @@ organizations:
 # bio: My research interests include Computer Vision, Deep Learning and 
 
 # Interests to show in About widget#
-#interests:
- # - Machine Learning
- # - Applied ML in Healthcare
- # - Computer Vision
- # - Biomedical Computing
- # - Natural Language Processing (NLP)
+interests:
+ - Machine Learning
+ - Applied ML in Healthcare
+ - Computer Vision
+ - Biomedical Computing
+ - Natural Language Processing (NLP)
 
 # Education to show in About widget
-#education:
-#  courses:
- #   - course: MSc in Computer Science 
-  #    institution: Western University, Canada
-   #   GPA: 4/4
-    #- course: BSc in Computer Engineering 
-     # institution: Amirkabir University
-      # year: 2019
-     # GPA: 3.72/4
+education:
+ courses:
+   - course: MSc in Computer Science 
+     institution: Western University, Canada
+     GPA: 4/4
+  -  course: BSc in Computer Engineering 
+     institution: Amirkabir University
+     GPA: 3.72/4
 
 
 
