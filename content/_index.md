@@ -62,35 +62,82 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Applied Researcher
-          company: Brain and Mind Institute
+        - title: Data Scientist - AI Engineer
+          company: BrainsCAN
           company_url: ''
           # company_logo: org-gc
           location: London, ON
-          date_start: '2024-01-01'
+          date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              Engaging in the large-scale OMMABA project in collaboration with McGill and Western Universities, exploring the effects of
-              music perception on brain functionality.
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Machine Learning Technical Facilitator
+              * Collaborated on the large-scale OMMABA project to explore the impact of music perception on brain functionality and
+              develop a multimodal dataset integrating behavioral, EEG, and fMRI data from 60 participants.
+              * Developed a robust data preprocessing pipeline to enhance data quality, consistency, and usability for downstream analysis.
+              * Achieved 94% accuracy in ECG arrhythmia classification by developing deep learning models (1D CNNs, RNNs) and
+              traditional ML algorithms (SVM, XGBoost), with statistical insights into model performance.
+              * Deployed a production-ready pipeline via Dockerized FastAPI, enabling scalable, real-time arrhythmia detection.
+              * Annotated immune cell types from 20K single-cell RNA-seq blood samples using generative variational autoencoders (VAE)
+              and scGPT (transformer-based model), leading to improved accuracy and interpretability.
+              * Tools: Pandas, Scikit-learn, TensorFlow, HuggingFace, scanPy, sciPy, Seaborn, Optuna, MLflow, FastAPI, Docker, AWS
+        
+        - title: Machine Learning Engineer Technical Facilitator
           company: Vector Institute for AI
           company_url: ''
           company_logo: org-x
           location: Toronto, Canada
-          date_start: '2023-07-01'
+          date_start: '2023-09-01'
           date_end: '2023-12-31'
           description: |2-
               * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-              * Performed data preparation and exploratory analysis on the tabular Bank Account Fraud (BAF) dataset.
-              * Implemented fraud detection on the BAF dataset using models like Logistic Regression, Random Forest, XGBoost, CatBoost,
-                LightGBM, Isolation Forest, and deep learning techniques such as TabNet, Autoencoder, and Internal Contrastive Learning.
-              * Evaluated the performance of the models based on TPR, FPR, and AUC metrics, and performed hyper-parameter tuning
-                using GridSearchCV and Optuna.
-              * Built a reference implementation for video anomaly detection using Multiple Instance Learning on the UCF-Crime dataset.  
+              * Deployed tailored ML solutions to address anomaly detection use cases for 12 companies by collaborating with stakeholders.
+              * Developed an ML-based fraud detection framework using ensemble methods (LightGBM), boosting model accuracy by
+              27% and reducing false positives by 15%.
+              * Implemented a DL-based TabNet model for financial fraud detection, achieving 88% accuracy on transaction data.
+              * Built a scalable video anomaly detection framework using multiple instance ranking, reaching an AUC of 85%
+              * Tools: Docker, GCP, Pandas, SQL, PySpark, Scikit-learn, PyTorch, Streamlit, T-Test, Matplotlib, Tableau, Wandb, Git, Slurm
+
+        - title: Data Scientist Intern
+          company: Vector Institute for AI
+          company_url: ''
+          company_logo: org-x
+          location: Toronto, Canada
+          date_start: '2023-05-01'
+          date_end: '2023-08-31'
+          description: |2-
+              * Led an Anomaly Detection Workshop for 50+ professionals, delivering hands-on training on advanced techniques.
+              * Delivered a reference fraud detection demo using a credit card dataset, achieving 93% AUC with an AutoEncoder.
+              * Conducted analysis for a pharma company by integrating lab data from 1,000 patients to assess their drug impact on BMI
+              and blood pressure, applying statistical, subgroup, and outlier analyses with external data to optimize clinical trial design.
+              * Leveraged supervised models (Random Forest, XGBoost) to estimate treatment effects, predicting a 12% reduction in BMI
+              and a 3% reduction in blood pressure.   
+
+          - title: Machine Learning Research Engineer
+          company: Western University
+          company_url: ''
+          company_logo: org-x
+          location: London, Canada
+          date_start: '2021-09-01'
+          date_end: '2023-08-31'
+          description: |2-
+              * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
+              * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
+              * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
+              * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
+              * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git  
+
+          # - title: Machine Learning Engineer
+          # company: Western University
+          # company_url: ''
+          # company_logo: org-x
+          # location: Toronto, Canada
+          # date_start: '2021-09-01'
+          # date_end: '2023-08-31'
+          # description: |2-
+          #     * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
+          #     * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
+          #     * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
+          #     * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
+          #     * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git      
   #   design:
       columns: '2'
   # - block: accomplishments
