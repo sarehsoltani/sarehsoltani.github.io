@@ -115,8 +115,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I’m a Data Scientist and Machine Learning Specialist with over 5 years of hands-on experience developing scalable ML solutions and extracting insights from complex, high-dimensional datasets. I have a proven track record of translating real-world challenges into data-driven strategies through robust models and analytics pipelines that deliver measurable impact. 
-I am passionate about creating impactful solutions, especially in the healthcare and finance sectors, and I am always keen to learn and grow in areas that merge ML and real-world applications. 
+I’m a Data Scientist and Machine Learning Specialist with over 5 years of hands-on experience developing scalable ML solutions and extracting insights from complex, high-dimensional datasets. I am passionate about creating impactful solutions, especially in the healthcare and finance sectors, and I am always keen to learn and grow in areas that merge ML and real-world applications. 
 
 I graduated from my M.Sc. in Computer Science from Western University where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. I completed my B.Sc. in Computer Engineering at Amirkabir University, focusing on real-time tracking systems.
 
