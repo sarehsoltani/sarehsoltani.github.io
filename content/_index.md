@@ -80,50 +80,50 @@ sections:
               and scGPT (transformer-based model), leading to improved accuracy and interpretability.
               * Tools: Pandas, Scikit-learn, TensorFlow, HuggingFace, scanPy, sciPy, Seaborn, Optuna, MLflow, FastAPI, Docker, AWS
         
-        - title: Machine Learning Engineer Technical Facilitator
-          company: Vector Institute for AI
-          company_url: ''
-          company_logo: org-x
-          location: Toronto, Canada
-          date_start: '2023-09-01'
-          date_end: '2023-12-31'
-          description: |2-
-              * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-              * Deployed tailored ML solutions to address anomaly detection use cases for 12 companies by collaborating with stakeholders.
-              * Developed an ML-based fraud detection framework using ensemble methods (LightGBM), boosting model accuracy by
-              27% and reducing false positives by 15%.
-              * Implemented a DL-based TabNet model for financial fraud detection, achieving 88% accuracy on transaction data.
-              * Built a scalable video anomaly detection framework using multiple instance ranking, reaching an AUC of 85%
-              * Tools: Docker, GCP, Pandas, SQL, PySpark, Scikit-learn, PyTorch, Streamlit, T-Test, Matplotlib, Tableau, Wandb, Git, Slurm
+        # - title: Machine Learning Engineer Technical Facilitator
+        #   company: Vector Institute for AI
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: Toronto, Canada
+        #   date_start: '2023-09-01'
+        #   date_end: '2023-12-31'
+        #   description: |2-
+        #       * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+        #       * Deployed tailored ML solutions to address anomaly detection use cases for 12 companies by collaborating with stakeholders.
+        #       * Developed an ML-based fraud detection framework using ensemble methods (LightGBM), boosting model accuracy by
+        #       27% and reducing false positives by 15%.
+        #       * Implemented a DL-based TabNet model for financial fraud detection, achieving 88% accuracy on transaction data.
+        #       * Built a scalable video anomaly detection framework using multiple instance ranking, reaching an AUC of 85%
+        #       * Tools: Docker, GCP, Pandas, SQL, PySpark, Scikit-learn, PyTorch, Streamlit, T-Test, Matplotlib, Tableau, Wandb, Git, Slurm
 
-        - title: Data Scientist Intern
-          company: Vector Institute for AI
-          company_url: ''
-          company_logo: org-x
-          location: Toronto, Canada
-          date_start: '2023-05-01'
-          date_end: '2023-08-31'
-          description: |2-
-              * Led an Anomaly Detection Workshop for 50+ professionals, delivering hands-on training on advanced techniques.
-              * Delivered a reference fraud detection demo using a credit card dataset, achieving 93% AUC with an AutoEncoder.
-              * Conducted analysis for a pharma company by integrating lab data from 1,000 patients to assess their drug impact on BMI
-              and blood pressure, applying statistical, subgroup, and outlier analyses with external data to optimize clinical trial design.
-              * Leveraged supervised models (Random Forest, XGBoost) to estimate treatment effects, predicting a 12% reduction in BMI
-              and a 3% reduction in blood pressure.   
+        # - title: Data Scientist Intern
+        #   company: Vector Institute for AI
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: Toronto, Canada
+        #   date_start: '2023-05-01'
+        #   date_end: '2023-08-31'
+        #   description: |2-
+        #       * Led an Anomaly Detection Workshop for 50+ professionals, delivering hands-on training on advanced techniques.
+        #       * Delivered a reference fraud detection demo using a credit card dataset, achieving 93% AUC with an AutoEncoder.
+        #       * Conducted analysis for a pharma company by integrating lab data from 1,000 patients to assess their drug impact on BMI
+        #       and blood pressure, applying statistical, subgroup, and outlier analyses with external data to optimize clinical trial design.
+        #       * Leveraged supervised models (Random Forest, XGBoost) to estimate treatment effects, predicting a 12% reduction in BMI
+        #       and a 3% reduction in blood pressure.   
 
-          - title: Machine Learning Research Engineer
-          company: Western University
-          company_url: ''
-          company_logo: org-x
-          location: London, Canada
-          date_start: '2021-09-01'
-          date_end: '2023-08-31'
-          description: |2-
-              * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
-              * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
-              * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
-              * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
-              * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git  
+        #   - title: Machine Learning Research Engineer
+        #   company: Western University
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: London, Canada
+        #   date_start: '2021-09-01'
+        #   date_end: '2023-08-31'
+        #   description: |2-
+        #       * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
+        #       * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
+        #       * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
+        #       * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
+        #       * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git  
 
           # - title: Machine Learning Engineer
           # company: Western University
