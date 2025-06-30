@@ -80,21 +80,21 @@ sections:
               and scGPT (transformer-based model), leading to improved accuracy and interpretability.
               * Tools: Pandas, Scikit-learn, TensorFlow, HuggingFace, scanPy, sciPy, Seaborn, Optuna, MLflow, FastAPI, Docker, AWS
         
-        # - title: Machine Learning Engineer Technical Facilitator
-        #   company: Vector Institute for AI
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: Toronto, Canada
-        #   date_start: '2023-09-01'
-        #   date_end: '2023-12-31'
-        #   description: |2-
-        #       * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
-        #       * Deployed tailored ML solutions to address anomaly detection use cases for 12 companies by collaborating with stakeholders.
-        #       * Developed an ML-based fraud detection framework using ensemble methods (LightGBM), boosting model accuracy by
-        #       27% and reducing false positives by 15%.
-        #       * Implemented a DL-based TabNet model for financial fraud detection, achieving 88% accuracy on transaction data.
-        #       * Built a scalable video anomaly detection framework using multiple instance ranking, reaching an AUC of 85%
-        #       * Tools: Docker, GCP, Pandas, SQL, PySpark, Scikit-learn, PyTorch, Streamlit, T-Test, Matplotlib, Tableau, Wandb, Git, Slurm
+        - title: Machine Learning Engineer Technical Facilitator
+          company: Vector Institute for AI
+          company_url: ''
+          company_logo: org-x
+          location: Toronto, Canada
+          date_start: '2023-09-01'
+          date_end: '2023-12-31'
+          description: |2-
+              * Conducted two cohorts of Anomaly Detection Bootcamp as part of the Vector ML Experts team.
+              * Deployed tailored ML solutions to address anomaly detection use cases for 12 companies by collaborating with stakeholders.
+              * Developed an ML-based fraud detection framework using ensemble methods (LightGBM), boosting model accuracy by
+              27% and reducing false positives by 15%.
+              * Implemented a DL-based TabNet model for financial fraud detection, achieving 88% accuracy on transaction data.
+              * Built a scalable video anomaly detection framework using multiple instance ranking, reaching an AUC of 85%
+              * Tools: Docker, GCP, Pandas, SQL, PySpark, Scikit-learn, PyTorch, Streamlit, T-Test, Matplotlib, Tableau, Wandb, Git, Slurm
 
         # - title: Data Scientist Intern
         #   company: Vector Institute for AI
