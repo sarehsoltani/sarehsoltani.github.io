@@ -121,4 +121,10 @@ I graduated from my M.Sc. in Computer Science from Western University where I de
 
 My research interests include ML fundamentals, Computer Vision, Biomedical Computing, and natural lanaguage processsing. On the applied side, I'm interested in ML problems at scale, modelling, training, deployment and evaluation. I am currently looking for my next job opportunity in machine learning.
 
+##Technical Skills:
+• Programming Languages: Python, SQL, C, JavaScript
+• Frameworks/Libraries: PyTorch, Tensorflow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Tableau.
+• NLP Tools & Models: : HuggingFace, spaCy, NLTK, BERT, scGPT, scVI, sciPy, scanPy,
+• Other Skills: GCP, AWS EC2, Docker, Kubernetes, PySpark, FastAPI, Streamlit, Git, MLflow, Optuna, W&B, Slurm
+
 {style="text-align: justify;"}
