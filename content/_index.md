@@ -97,13 +97,13 @@ sections:
               * Tools: Docker, GCP, Pandas, SQL, PySpark, Scikit-learn, PyTorch, Streamlit, T-Test, Matplotlib, Tableau, Wandb, Git, Slurm
 
         - title: Data Scientist Intern
-           company: Vector Institute for AI
-           company_url: ''
-           company_logo: org-x
-           location: Toronto, Canada
-           date_start: '2023-05-01'
-           date_end: '2023-08-31'
-           description: |2-
+          company: Vector Institute for AI
+          company_url: ''
+          company_logo: org-x
+          location: Toronto, Canada
+          date_start: '2023-05-01'
+          date_end: '2023-08-31'
+          description: |2-
                * Led an Anomaly Detection Workshop for 50+ professionals, delivering hands-on training on advanced techniques.
                * Delivered a reference fraud detection demo using a credit card dataset, achieving 93% AUC with an AutoEncoder.
                * Conducted analysis for a pharma company by integrating lab data from 1,000 patients to assess their drug impact on BMI
