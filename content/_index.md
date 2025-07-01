@@ -65,7 +65,7 @@ sections:
         - title: Data Scientist - AI Engineer
           company: BrainsCAN
           company_url: ''
-          # company_logo: org-gc
+          company_logo: org-gc
           location: London, ON
           date_start: '2024-02-01'
           date_end: ''
