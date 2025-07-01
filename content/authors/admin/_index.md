@@ -94,7 +94,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sarehsoltani96/
+    link: https://www.linkedin.com/in/sarehsoltani/
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
