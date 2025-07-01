@@ -121,7 +121,7 @@ I graduated from my M.Sc. in Computer Science from Western University where I de
 
 My research interests include ML fundamentals, Computer Vision, Biomedical Computing, and natural lanaguage processsing. On the applied side, I'm interested in ML problems at scale, modelling, training, deployment and evaluation. I am currently looking for my next job opportunity in machine learning.
 
-Personal email: sarehsoltani.inbox@gmail.com \
+Personal email: sarehsoltani.inbox@gmail.com <br />
 Work email: ssolta7@uwo.ca
 
 <!-- Technical Skills:
