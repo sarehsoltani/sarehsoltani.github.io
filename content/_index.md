@@ -124,7 +124,7 @@ sections:
               * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
               * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git  
 
-          - title: Machine Learning Engineer
+          - title: Graduate Machine Learning Engineer
           company: Western University
           company_url: ''
           company_logo: org-x
@@ -136,7 +136,23 @@ sections:
               * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
               * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
               * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
-              * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git      
+              * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git
+
+          - title: Machine Learning Engineer
+          company: IPM & Sharif Brain Center
+          company_url: ''
+          company_logo: org-x
+          # location: Toronto, Canada
+          date_start: '2020-07-01'
+          date_end: '2021-07-31'
+          description: |2-
+            * Applied NER and topic modeling to extract structured insights from unstructured EHR doctors’ notes, streamlining patient records and reducing manual chart review time by 30%.
+            * Used large language models like BERT for clinical treatment categorization.
+            * Developed 3D medical imaging visualizations from CBCT data, improving diagnostic accuracy for 50 patients.
+            * Tools: Python, Pandas, LLM, HuggingFace, BERT, PyTorch, NLTK, spaCy
+
+
+
   #   design:
       columns: '2'
   # - block: accomplishments
