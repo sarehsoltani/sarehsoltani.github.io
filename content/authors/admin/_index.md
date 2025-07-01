@@ -95,9 +95,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sarehsoltani96/
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5XyvffjxreJL-z57TzbPwparXdCxlsbWFi5abkW9Yp52xCUlNhNQ-_U8wk9pdb9zP4qjz663sZwXCPfxSzQjzO6&user=iOOIJmT98aUC
