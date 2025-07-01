@@ -110,33 +110,33 @@ sections:
                and blood pressure, applying statistical, subgroup, and outlier analyses with external data to optimize clinical trial design.
                * Leveraged supervised models (Random Forest, XGBoost) to estimate treatment effects, predicting a 12% reduction in BMI and a 3% reduction in blood pressure.   
 
-        #   - title: Machine Learning Research Engineer
-        #   company: Western University
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: London, Canada
-        #   date_start: '2021-09-01'
-        #   date_end: '2023-08-31'
-        #   description: |2-
-        #       * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
-        #       * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
-        #       * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
-        #       * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
-        #       * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git  
+          - title: Machine Learning Research Engineer
+          company: Western University
+          company_url: ''
+          company_logo: org-x
+          location: London, Canada
+          date_start: '2021-09-01'
+          date_end: '2023-08-31'
+          description: |2-
+              * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
+              * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
+              * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
+              * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
+              * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git  
 
-          # - title: Machine Learning Engineer
-          # company: Western University
-          # company_url: ''
-          # company_logo: org-x
-          # location: Toronto, Canada
-          # date_start: '2021-09-01'
-          # date_end: '2023-08-31'
-          # description: |2-
-          #     * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
-          #     * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
-          #     * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
-          #     * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
-          #     * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git      
+          - title: Machine Learning Engineer
+          company: Western University
+          company_url: ''
+          company_logo: org-x
+          location: Toronto, Canada
+          date_start: '2021-09-01'
+          date_end: '2023-08-31'
+          description: |2-
+              * Designed a novel weakly-supervised video-anomaly detection system built on a two-stream I3D ConvNet.
+              * Built a data pipeline to process 1TB+ of video data from UCF-Crime benchmark, leveraging Multiple Instance Learning.
+              * Automated extraction of appearance (RGB) and motion (optical - flow) embeddings through parallel two- stream I3D encoders
+              * Devised a late-fusion strategy that improved accuracy by 20%, achieving an 85% AUC and surpassing published baselines.    
+              * Tools: Python, PyTorch, OpenCV, Weights & Biases, Matplotlib, Git      
   #   design:
       columns: '2'
   # - block: accomplishments
