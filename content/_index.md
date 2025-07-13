@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 #  - block: skills
@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Scientist - AI Engineer2222
+        - title: Data Scientist - AI Engineer
           company: BrainsCAN
           company_url: ''
           company_logo: org-gc
