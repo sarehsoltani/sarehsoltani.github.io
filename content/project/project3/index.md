@@ -7,7 +7,7 @@ summary: This project introduces a cutting-edge approach to anomaly detection in
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/sarehsoltani/Weakly-Supervised-Anomaly-Detection-in-Surveillance-Videos-Based-on-Two-Stream-I3D-ConvNet
+# external_link: https://github.com/sarehsoltani/Weakly-Supervised-Anomaly-Detection-in-Surveillance-Videos-Based-on-Two-Stream-I3D-ConvNet
 
 image:
   caption: Photo by Toa ftiba on Unsplash
