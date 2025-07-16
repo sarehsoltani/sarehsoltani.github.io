@@ -120,9 +120,13 @@ highlight_name: true
 ---
 I’m a Data Scientist and Machine Learning Specialist with over 5 years of hands-on experience developing scalable ML solutions and extracting insights from complex, high-dimensional datasets. I am passionate about creating impactful solutions, especially in the healthcare and finance sectors, and I am always keen to learn and grow in areas that merge ML and real-world applications. 
 
-I graduated from my M.Sc. in Computer Science from Western University where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. I completed my B.Sc. in Computer Engineering at Amirkabir University, focusing on real-time tracking systems.
+I hold a Master of Science in Computer Science, where my academic focus centered on anomaly and fraud detection. For my thesis project, I developed a weakly supervised anomaly detection model for surveillance videos, based on a two-stream Inflated 3D (I3D) convolutional neural network. This research addressed the challenge of detecting abnormal activities with minimal labeled data and resulted in two peer-reviewed publications.
 
-My research interests include ML fundamentals, Computer Vision, Biomedical Computing, and natural lanaguage processsing. On the applied side, I'm interested in ML problems at scale, modelling, training, deployment and evaluation. I am currently looking for my next job opportunity in machine learning.
+My professional interests are broad yet interconnected, including machine learning, computer vision, Biomedical Computing, AI-driven healthcare solutions, and everything related to LLMs and natural language processing (NLP). I thrive at the intersection of technology and real-world applications, continually seeking innovative solutions that make a meaningful impact. I am currently looking for my next job opportunity in machine learning.
+
+<!-- I graduated from my M.Sc. in Computer Science from Western University where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. I completed my B.Sc. in Computer Engineering at Amirkabir University, focusing on real-time tracking systems. -->
+
+<!-- My research interests include ML fundamentals, Computer Vision, Biomedical Computing, and natural lanaguage processsing. On the applied side, I'm interested in ML problems at scale, modelling, training, deployment and evaluation. I am currently looking for my next job opportunity in machine learning. -->
 
 Personal email: sarehsoltani.inbox@gmail.com <br />
 Work email: ssolta7@uwo.ca
