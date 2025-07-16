@@ -1,6 +1,6 @@
 ---
 title: Video Anomaly Detection
-summary: Built a real-time ECG heartbeat classification system using CNNs trained on the MIT-BIH dataset. The model automatically extracts key temporal ECG features and was optimized with Optuna, with experiments tracked via MLFlow for robust performance. Deployed as a scalable REST API on AWS EC2, the system accepts CSV inputs and delivers fast, accurate predictions, achieving 95% accuracy in classifying arrhythmias. This end-to-end solution enables cardiologists and researchers to analyze their own data in real-world healthcare settings, improving clinical diagnosis through efficient, scalable arrhythmia detection.
+summary: This project introduces a cutting-edge approach to anomaly detection in urban surveillance systems using Two-Stream Inflated 3D (I3D) Convolutional Networks. By capturing both spatial and temporal features more effectively than traditional methods, our model significantly improves detection precision. Leveraging a weakly supervised Multiple Instance Learning (MIL) framework, we treat surveillance videos as collections of ranked clips, enabling efficient anomaly identification with minimal manual labeling. Optimized for real-world deployment, this scalable and high-performing solution sets new standards in public safety technology through intelligent, context-aware video analysis.
 
 # tags:
 #   - Demo
