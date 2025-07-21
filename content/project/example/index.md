@@ -6,7 +6,7 @@ summary: This project introduces a cutting-edge approach to anomaly detection in
 date: '2023-09-1'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://arxiv.org/abs/2411.08755'
+# external_link: 'https://arxiv.org/abs/2411.08755'
 
 image:
   caption: The architecture of the proposed anomaly detection model
@@ -17,7 +17,7 @@ links:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://arxiv.org/abs/2411.08755'
 url_pdf: 'https://arxiv.org/pdf/2411.08755'
 url_slides: ''
 url_video: ''
