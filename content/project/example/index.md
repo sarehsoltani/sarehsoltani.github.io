@@ -1,22 +1,22 @@
 ---
-title: Weakly-supervised Anomaly Detection in Videos (MSc Thesis)
-summary: An example of using the in-built project page.
+title: Weakly-supervised Anomaly Detection in Surveillance Videos (MSc Thesis)
+summary: This project introduces a cutting-edge approach to anomaly detection in urban surveillance systems using Two-Stream Inflated 3D (I3D) Convolutional Networks. By capturing both spatial and temporal features more effectively than traditional methods, our model significantly improves detection precision. Leveraging a weakly supervised Multiple Instance Learning (MIL) framework, we treat surveillance videos as collections of ranked clips, enabling efficient anomaly identification with minimal manual labeling. Optimized for real-world deployment, this scalable and high-performing solution sets new standards in public safety technology through intelligent, context-aware video analysis. [Code](https://github.com/sarehsoltani/Weakly-Supervised-Anomaly-Detection-in-Surveillance-Videos-Based-on-Two-Stream-I3D-ConvNet)
 # tags:
 #   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-09-1'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://arxiv.org/abs/2411.08755'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
