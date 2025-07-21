@@ -44,4 +44,4 @@ Additional contributions include:
 
 - Highlighting how training strategies, such as optimizer selection and learning rate tuning, influence detection performance.
 
-The model was rigorously evaluated on the UCF-Crime dataset, achieving state-of-the-art results and validating the effectiveness of combining weak supervision with powerful feature extraction techniques.
+The model was rigorously evaluated on the UCF-Crime dataset, achieving state-of-the-art results and validating the effectiveness of combining weak supervision with powerful feature extraction techniques. 
