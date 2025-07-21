@@ -9,7 +9,7 @@ date: '2023-09-1'
 external_link: 'https://arxiv.org/abs/2411.08755'
 
 image:
-  # caption: Photo by rawpixel on Unsplash
+  caption: The architecture of the proposed anomaly detection model
   focal_point: Smart
 
 links:
