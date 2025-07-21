@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
@@ -387,4 +387,4 @@ renders as
 {{< icon name="python" pack="fab" >}} Python  
 {{< icon name="r-project" pack="fab" >}} R
 
-### Did you find this page helpful? Consider sharing it 🙌
+### Did you find this page helpful? Consider sharing it 🙌 -->
