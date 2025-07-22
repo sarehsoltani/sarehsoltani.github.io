@@ -48,3 +48,7 @@ The model was rigorously evaluated on the UCF-Crime dataset, achieving state-of-
 
 ![result](./result.png)
 
+Quantitative comparison of anomaly detection methods on the UCF-Crime dataset.
+![result](./result2.png)
+
+
