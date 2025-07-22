@@ -46,5 +46,5 @@ Additional contributions include:
 
 The model was rigorously evaluated on the UCF-Crime dataset, achieving state-of-the-art results and validating the effectiveness of combining weak supervision with powerful feature extraction techniques. 
 
-![result](/images/result.png)
+![result](./result.png)
 
