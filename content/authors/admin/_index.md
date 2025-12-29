@@ -28,12 +28,12 @@ organizations:
 # bio: My research interests include Computer Vision, Deep Learning and 
 
 # Interests to show in About widget#
-interests:
- - Machine Learning
- - Applied ML in Healthcare
- - Computer Vision
- - Biomedical Computing
- - Natural Language Processing (NLP)
+# interests:
+#  - Machine Learning
+#  - Applied ML in Healthcare
+#  - Computer Vision
+#  - Biomedical Computing
+#  - Natural Language Processing (NLP)
 
 # Education to show in About widget
 education:
