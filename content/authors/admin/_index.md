@@ -21,7 +21,7 @@ role: Data Scientist / Machine Learning Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: BrainsCAN
+  - name: Vancouver, Canada
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
