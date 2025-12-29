@@ -120,20 +120,10 @@ highlight_name: true
 ---
 I am Sareh Soltani, a Machine Learning Researcher with over 5 years of experience architecting scalable, end-to-end AI systems. Currently, as a GenAI Data Scientist at Mercor Inc., I specialize in Large Language Models (LLMs), building agentic RAG systems designed for multi-step reasoning and tool integration across large-scale unstructured data. Previously, as a Data Scientist at BrainsCan, I leveraged multimodal data to investigate the effect of music perception on brain functionality, while developing AI-driven solutions for pharmaceutical and healthcare applications. Prior to that, I joined the Vector Institute as a Machine Learning Engineer to collaborate on anomaly detection projects. In this role, I implemented machine learning pipelines and predictive models to solve complex challenges across the banking, insurance, and surveillance sectors.
 
-
-
 I earned my MSc from Western University under the supervision of Dr. Anwar Haque, where I pioneered novel neural network architectures for video anomaly detection. My work addresses the critical bottleneck of data labeling by engineering weakly supervised learning architectures that accurately detect anomalies without extensive manual annotation. Prior to this, I completed my BSc in Computer Engineering at Amirkabir University of Technology, focusing on object detection and tracking systems. 
-
-
-<!-- I hold a Master of Science in Computer Science, where my academic focus centered on anomaly and fraud detection. For my thesis project, I developed a weakly supervised anomaly detection model for surveillance videos, based on a two-stream Inflated 3D (I3D) convolutional neural network. This research addressed the challenge of detecting abnormal activities with minimal labeled data. Before my master, I earned my Bachelor's degree in Computer Engineering from Amirkabir University of Technology. -->
-
-My professional interests are broad yet interconnected, including machine learning, computer vision, Biomedical Computing, AI-driven healthcare solutions, and everything related to LLMs and natural language processing (NLP). I thrive at the intersection of technology and real-world applications, continually seeking innovative solutions that make a meaningful impact. I am currently looking for my next job opportunity in machine learning.
 
 My expertise spans Generative AI, Computer Vision, and Large Language Models, with specialized applications across the healthcare, multimedia, and banking sectors. I have extensive experience architecting production-ready AI systems, implementing advanced ML pipelines, and deploying models that drive tangible business value.
 
-<!-- I graduated from my M.Sc. in Computer Science from Western University where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. I completed my B.Sc. in Computer Engineering at Amirkabir University, focusing on real-time tracking systems. -->
-
-<!-- My research interests include ML fundamentals, Computer Vision, Biomedical Computing, and natural lanaguage processsing. On the applied side, I'm interested in ML problems at scale, modelling, training, deployment and evaluation. I am currently looking for my next job opportunity in machine learning. -->
 
 Personal email: sarehsoltani.inbox@gmail.com <br />
 Work email: ssolta7@uwo.ca
